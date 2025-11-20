@@ -1,16 +1,13 @@
 # About the Project
+**Object-Oriented Programming – MC358 (College Course)**
 
-**#About the Project**
-
-## mc358-POO
 An initial project for a hotel management system, using Avalonia, an open-source framework for building cross-platform graphical interfaces inspired by WPF and written in C#.
 
-#tecnologias utilizadas:
--C#
--xml
--avalonia
+# Technologies Used:
+- C#
+- XML
+- Avalonia
 
-#Referencies 
-
-[RefactoringGuru](https://refactoring.guru/pt-br)
+# Referencies:
+- [RefactoringGuru](https://refactoring.guru/pt-br)
 
